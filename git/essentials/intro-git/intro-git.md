@@ -1,21 +1,19 @@
----
-author: kapnobatai136
-type: normal
-category: must-know
----
-
-# What's Git?
-
-
----
-
-## Content
-
-If you're not already familiar with **Git**, it is the de facto standard of version control.
-
-It's what most commercial (and open-source) projects use to keep track of - you guessed it - versions of their products.
-
-Git came to life in 2005, and was developed by Linus Torvalds (the creator of Linux). 
-
-> 💡 In this first workout we'll explain why you'd use **Git**, what it brings to the table, and how to install it. If you know these already, use the *Skill Map* tab to skip ahead.
- 
+## ចំណាត់ថ្នាក់ចំណាយ
+| I. សរុបមូលនិធិដំណើរការសាលារៀនសាធារណៈ (SOF)                           |     |       |
+|----------------------------------------------------------------------|-----|-------|
+| ១. គាំទ្រកិច្ចដំណើរការ                                               | 1   |       |
+| ១.១ កិច្ចដំណើរការរដ្ឋបាល                                             | 101 | 60028 |
+| ១.២ ការថែទាំ និងជួសជុលផ្សេងៗ                                         | 102 | 61058 |
+| ២. កែលម្អគុណភាពអប់រំ                                                 | 2   |       |
+| ២.១ ការចូលរៀនដោយ​សមធម៌ និងបង្ការសិស្សបោះបង់                          | 201 | 61108 |
+| ២.២ សម្ភារៈរៀន និងបង្រៀន                                             | 202 | 60058 |
+| ២.៣ ការកែលម្អបរិស្ថាន                                                | 203 | 61058 |
+| ២.៤ អប់រំបំណិនជីវិត កីឡា ការងារយុវជន និងកុមារ                        | 204 | 60058 |
+| II. សរុបក្រៅពីមូលនិធិដំណើរការសាលារៀន                                 | 3   |       |
+| ប្រជុំប្រចាំសប្ដាហ៍ ប្រជុំតាមសាលាកម្រង ប្រជុំបច្ចេកទេសថ្ងៃព្រហស្បតិ៍ | 301 | 61103 |
+| អាហារូបករណ៍សិស្សក្រីក្រ                                              | 302 | 62025 |
+| កម្មវិធីផ្ដល់ស្បៀងអាហារតាមសាលារៀន                                    | 303 | 62028 |
+| រង្វាន់សិស្សពូកែ                                                     | 304 | 62028 |
+| វិទ្យាល័យអប់រំពិសេស                                                  | 305 | 62028 |
+| បង្គន់អនាម័យនិងទឹកស្អាត                                              | 306 | 61052 |
+| ចំណាយលើការប្រឡង-ប្រឡងប្រជែង                                          | 307 | 62061 |
